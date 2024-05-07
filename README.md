@@ -2,6 +2,7 @@
 | :--: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------: |
 | 1 | Two Sum | [C++](https://github.com/YingJung03/LeetcodeBase/blob/main/Storage/1.Two_Sum.cpp) | Easy | Apr 02, 2024 |
 | 13 | Roman to Integer | [C++](https://github.com/YingJung03/LeetcodeBase/blob/main/Storage/13.Roman_to_Integer.cpp) | Easy | Apr 28, 2024 |
+| 21 | Merge Two Sorted Lists | [C++](https://github.com/YingJung03/LeetcodeBase/blob/main/Storage/21.Merge_Two_Sorted_Lists.cpp) | Easy | Mar 8, 2024 |
 | 28 | Find the Index of the First Occurrence in a String | [C++](https://github.com/YingJung03/LeetcodeBase/blob/main/Storage/28.Find_the_Index_of_the_First_Occurrence_in_a_String.cpp) | Easy | Apr 28, 2024 |
 | 53 | Maximum Subarray | [C++](https://github.com/YingJung03/LeetcodeBase/blob/main/Storage/53.Maximum_Subarray.cpp) | Medium | Apr 28, 2024 |
 | 58 | Length of Last Word | [C++](https://github.com/YingJung03/LeetcodeBase/blob/main/Storage/58.Length_of_Last_Word.cpp) | Easy | May 2, 2024 |
