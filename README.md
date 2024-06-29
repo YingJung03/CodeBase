@@ -13,8 +13,8 @@
 | 169 | Majority Element | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/169.Majority_Element.cpp) | Easy | Apr 28, 2024 |
 | 203 | Remove Linked List Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/203.Remove_Linked_List_Elements.cpp) | Easy | May 15, 2024 |
 | 225 | Implement Stack using Queues | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/225.Implement_Stack_using_Queues.cpp) | Easy | JUN 29, 2024 |
-| 232 | Implement Queue using Stacks | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/232.Implement_Queue_using_Stacks.cpp) | Easy | JUN 29, 2024 |
 | 228 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/228.Summary_Ranges.cpp) | Easy | Apr 28, 2024 |
+| 232 | Implement Queue using Stacks | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/232.Implement_Queue_using_Stacks.cpp) | Easy | JUN 29, 2024 |
 | 242 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/242.Valid_Anagram.cpp) | Easy | May 2, 2024 |
 | 257 | Binary Tree Path | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/257.Binary_Tree_Path.cpp) | Easy | May 4, 2024 |
 | 448 | Find All Numbers Disappeared in an Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp) | Easy | Apr 28, 2024 |
