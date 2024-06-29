@@ -11,8 +11,8 @@
 | 136 | Single Number | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/136.Single_Number.cpp) | Easy | May 13, 2024 |
 | 160 | Intersection of Two Linked Lists | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/160.Intersection_of_Two_Linked_Lists.cpp) | Easy | May 15, 2024 |
 | 169 | Majority Element | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/169.Majority_Element.cpp) | Easy | Apr 28, 2024 |
-| 203 | Remove Linked List Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/225.Implement_Stack_using_Queues.cpp) | Easy | JUN 29, 2024 |
-| 225 | Implement Stack using Queues | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/203.Remove_Linked_List_Elements.cpp) | Easy | May 15, 2024 |
+| 203 | Remove Linked List Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/203.Remove_Linked_List_Elements.cpp) | Easy | JUN 29, 2024 |
+| 225 | Implement Stack using Queues | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/225.Implement_Stack_using_Queues.cpp) | Easy | May 15, 2024 |
 | 228 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/228.Summary_Ranges.cpp) | Easy | Apr 28, 2024 |
 | 242 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/242.Valid_Anagram.cpp) | Easy | May 2, 2024 |
 | 257 | Binary Tree Path | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/257.Binary_Tree_Path.cpp) | Easy | May 4, 2024 |
