@@ -9,6 +9,7 @@
 | 83 | Remove Duplicates from Sorted List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/83.Remove_Duplicates_from_Sorted_List.cpp) | Easy | May 13, 2024 |
 | 121 | Best Time to Buy and Sell Stock | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/121.Best_Time_to_Buy_and_Sell_Stock.cpp) | Easy | Apr 28, 2024 |
 | 136 | Single Number | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/136.Single_Number.cpp) | Easy | May 13, 2024 |
+| 155 | Min Stack | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/155.Min_Stack.cpp) | Easy | JUN 30, 2024 |
 | 160 | Intersection of Two Linked Lists | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/160.Intersection_of_Two_Linked_Lists.cpp) | Easy | May 15, 2024 |
 | 169 | Majority Element | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/169.Majority_Element.cpp) | Easy | Apr 28, 2024 |
 | 203 | Remove Linked List Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/203.Remove_Linked_List_Elements.cpp) | Easy | May 15, 2024 |
