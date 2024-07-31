@@ -26,4 +26,4 @@
 | 876 | Middle of the Linked List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/876.Middle_of_the_Linked_List.cpp) | Easy | May 13, 2024 |
 | 1047 | Remove All Adjacent Duplicates In String | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp) | Easy | JUL 1, 2024 |
 | 1332 | Remove Palindromic Subsequences | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1332.Remove_Palindromic_Subsequences.cpp) | Easy | Apr 30, 2024 |
-
+| 1672 | Richest Customer Wealth | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1672.Richest_Customer_Wealth.cpp) | Easy | JUL 31, 2024 |
