@@ -5,6 +5,7 @@
 | 20 | Valid Parentheses | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/20.Valid_Parentheses.cpp) | Easy | JUL 8, 2024 |
 | 21 | Merge Two Sorted Lists | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/21.Merge_Two_Sorted_Lists.cpp) | Easy | Mar 8, 2024 |
 | 28 | Find the Index of the First Occurrence in a String | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/28.Find_the_Index_of_the_First_Occurrence_in_a_String.cpp) | Easy | Apr 28, 2024 |
+| 48 | Rotate Image | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/48.Rotate_Image.cpp) | Medium | AUG 1, 2024 |
 | 53 | Maximum Subarray | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/53.Maximum_Subarray.cpp) | Medium | Apr 28, 2024 |
 | 58 | Length of Last Word | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/58.Length_of_Last_Word.cpp) | Easy | May 2, 2024 |
 | 83 | Remove Duplicates from Sorted List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/83.Remove_Duplicates_from_Sorted_List.cpp) | Easy | May 13, 2024 |
