@@ -22,6 +22,7 @@
 | 232 | Implement Queue using Stacks | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/232.Implement_Queue_using_Stacks.cpp) | Easy | JUN 29, 2024 |
 | 242 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/242.Valid_Anagram.cpp) | Easy | May 2, 2024 |
 | 257 | Binary Tree Path | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/257.Binary_Tree_Path.cpp) | Easy | May 4, 2024 |
+| 271 | Encode and decode string | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/271.Encode_and_decode_string.cpp) | Easy | SEP 25, 2024 |
 | 347 | Top K Frequent Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/347.Top_K_Frequent_Elements.cpp) | Medium | SEP 24, 2024 |
 | 448 | Find All Numbers Disappeared in an Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp) | Easy | Apr 28, 2024 |
 | 566 | Reshape the Matrix | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/566.Reshape_the_Matrix.cpp) | Easy | JUL 18, 2024 |
