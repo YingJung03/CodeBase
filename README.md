@@ -20,6 +20,7 @@
 | 225 | Implement Stack using Queues | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/225.Implement_Stack_using_Queues.cpp) | Easy | JUN 29, 2024 |
 | 228 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/228.Summary_Ranges.cpp) | Easy | Apr 28, 2024 |
 | 232 | Implement Queue using Stacks | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/232.Implement_Queue_using_Stacks.cpp) | Easy | JUN 29, 2024 |
+| 238 | Product of Array Except Self | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/238.Product_of_Array_Except_Self.cpp) | Medium | SEP 26, 2024 |
 | 242 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/242.Valid_Anagram.cpp) | Easy | May 2, 2024 |
 | 257 | Binary Tree Path | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/257.Binary_Tree_Path.cpp) | Easy | May 4, 2024 |
 | 271 | Encode and decode string | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/271.Encode_and_decode_string.cpp) | Medium | SEP 25, 2024 |
