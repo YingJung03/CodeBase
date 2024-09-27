@@ -5,6 +5,7 @@
 | 20 | Valid Parentheses | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/20.Valid_Parentheses.cpp) | Easy | JUL 8, 2024 |
 | 21 | Merge Two Sorted Lists | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/21.Merge_Two_Sorted_Lists.cpp) | Easy | Mar 8, 2024 |
 | 28 | Find the Index of the First Occurrence in a String | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/28.Find_the_Index_of_the_First_Occurrence_in_a_String.cpp) | Easy | Apr 28, 2024 |
+| 36 | Valid Sudoku | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/36.Valid_Sudoku.cpp) | Medium | SEP 28, 2024 |
 | 48 | Rotate Image | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/48.Rotate_Image.cpp) | Medium | AUG 1, 2024 |
 | 49 | Group Anagrams | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/49.Group_Anagrams.cpp) | Medium | SEP 23, 2024 |
 | 53 | Maximum Subarray | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/53.Maximum_Subarray.cpp) | Medium | Apr 28, 2024 |
