@@ -17,6 +17,7 @@
 | 136 | Single Number | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/136.Single_Number.cpp) | Easy | May 13, 2024 |
 | 155 | Min Stack | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/155.Min_Stack.cpp) | Medium | JUN 30, 2024 |
 | 160 | Intersection of Two Linked Lists | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/160.Intersection_of_Two_Linked_Lists.cpp) | Easy | May 15, 2024 |
+| 167 | Two Sum II - Input Array Is Sorted | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/167.Two_Sum_II_-_Input_Array_Is_Sorted.cpp) | Medium | OCT 2, 2024 |
 | 169 | Majority Element | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/169.Majority_Element.cpp) | Easy | Apr 28, 2024 |
 | 203 | Remove Linked List Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/203.Remove_Linked_List_Elements.cpp) | Easy | May 15, 2024 |
 | 217 | Contains Duplicate | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/217.Contains_Duplicate.cpp) | Easy | SEP 20, 2024 |
