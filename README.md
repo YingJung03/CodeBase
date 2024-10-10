@@ -10,6 +10,7 @@
 | 26 | Remove Duplicates from Sorted Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/26.Remove_Duplicates_from_Sorted_Array.cpp) | Easy | OCT 10, 2024 |
 | 27 | Remove Element | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/27.Remove_Element.cpp) | Easy | OCT 10, 2024 |
 | 28 | Find the Index of the First Occurrence in a String | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/28.Find_the_Index_of_the_First_Occurrence_in_a_String.cpp) | Easy | Apr 28, 2024 |
+| 33 | Search in Rotated Sorted Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/33.Search_in_Rotated_Sorted_Array.cpp) | Medium | OCT 10, 2024 |
 | 36 | Valid Sudoku | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/36.Valid_Sudoku.cpp) | Medium | SEP 28, 2024 |
 | 42 | Trapping Rain Water | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/42.Trapping_Rain_Water.cpp) | Hard | OCT 3, 2024 |
 | 48 | Rotate Image | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/48.Rotate_Image.cpp) | Medium | AUG 1, 2024 |
