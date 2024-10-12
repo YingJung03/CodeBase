@@ -19,6 +19,7 @@
 | 53 | Maximum Subarray | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/53.Maximum_Subarray.cpp) | Medium | Apr 28, 2024 |
 | 58 | Length of Last Word | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/58.Length_of_Last_Word.cpp) | Easy | May 2, 2024 |
 | 83 | Remove Duplicates from Sorted List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/83.Remove_Duplicates_from_Sorted_List.cpp) | Easy | May 13, 2024 |
+| 88 | Merge_Sorted_Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/88.Merge_Sorted_Array.cpp) | Easy | OCT 12, 2024 |
 | 121 | Best Time to Buy and Sell Stock | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/121.Best_Time_to_Buy_and_Sell_Stock.cpp) | Easy | Apr 28, 2024 |
 | 125 | Valid Palindrome | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/125.Valid_Palindrome.cpp) | Easy | SEP 30, 2024 |
 | 128 | Longest Consecutive Sequence | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/128.Longest_Consecutive_Sequence.cpp) | Medium | SEP 29, 2024 |
