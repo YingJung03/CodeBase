@@ -39,6 +39,7 @@
 | 238 | Product of Array Except Self | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/238.Product_of_Array_Except_Self.cpp) | Medium | SEP 26, 2024 |
 | 242 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/242.Valid_Anagram.cpp) | Easy | May 2, 2024 |
 | 257 | Binary Tree Path | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/257.Binary_Tree_Path.cpp) | Easy | May 4, 2024 |
+| 268 | Missing Number | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/268.Missing_Number.cpp) | Easy | OCT 14, 2024 |
 | 271 | Encode and decode string | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/271.Encode_and_decode_string.cpp) | Medium | SEP 25, 2024 |
 | 347 | Top K Frequent Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/347.Top_K_Frequent_Elements.cpp) | Medium | SEP 24, 2024 |
 | 424 | Longest Repeating Character Replacement | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/424.Longest_Repeating_Character_Replacement.cpp) | Medium | OCT 7, 2024 |
