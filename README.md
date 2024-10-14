@@ -5,14 +5,14 @@
 | 11 | Container With Most Water | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/11.Container_With_Most_Water.cpp) | Medium | OCT 3, 2024 |
 | 13 | Roman to Integer | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/13.Roman_to_Integer.cpp) | Easy | Apr 28, 2024 |
 | 15 | 3Sum | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/15.3Sum.cpp) | Medium | OCT 2, 2024 |
-| 16 | 3Sum_Closest | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/16.3Sum_Closest.cpp) | Medium | OCT 13, 2024 |
+| 16 | 3Sum Closest | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/16.3Sum_Closest.cpp) | Medium | OCT 13, 2024 |
 | 20 | Valid Parentheses | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/20.Valid_Parentheses.cpp) | Easy | JUL 8, 2024 |
 | 21 | Merge Two Sorted Lists | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/21.Merge_Two_Sorted_Lists.cpp) | Easy | Mar 8, 2024 |
 | 26 | Remove Duplicates from Sorted Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/26.Remove_Duplicates_from_Sorted_Array.cpp) | Easy | OCT 10, 2024 |
 | 27 | Remove Element | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/27.Remove_Element.cpp) | Easy | OCT 10, 2024 |
 | 28 | Find the Index of the First Occurrence in a String | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/28.Find_the_Index_of_the_First_Occurrence_in_a_String.cpp) | Easy | Apr 28, 2024 |
 | 33 | Search in Rotated Sorted Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/33.Search_in_Rotated_Sorted_Array.cpp) | Medium | OCT 10, 2024 |
-| 34 | Find_First_and_Last_Position_of_Element_in_Sorted_Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | Medium | OCT 13, 2024 |
+| 34 | Find First and Last Position of Element in Sorted Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | Medium | OCT 13, 2024 |
 | 35 | Search Insert Position | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/35.Search_Insert_Position.cpp) | Easy | OCT 12, 2024 |
 | 36 | Valid Sudoku | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/36.Valid_Sudoku.cpp) | Medium | SEP 28, 2024 |
 | 42 | Trapping Rain Water | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/42.Trapping_Rain_Water.cpp) | Hard | OCT 3, 2024 |
@@ -26,6 +26,7 @@
 | 125 | Valid Palindrome | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/125.Valid_Palindrome.cpp) | Easy | SEP 30, 2024 |
 | 128 | Longest Consecutive Sequence | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/128.Longest_Consecutive_Sequence.cpp) | Medium | SEP 29, 2024 |
 | 136 | Single Number | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/136.Single_Number.cpp) | Easy | May 13, 2024 |
+| 141 | Linked List Cycle | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/141.Linked_List_Cycle.cpp) | Easy | OCT 14, 2024 |
 | 155 | Min Stack | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/155.Min_Stack.cpp) | Medium | JUN 30, 2024 |
 | 160 | Intersection of Two Linked Lists | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/160.Intersection_of_Two_Linked_Lists.cpp) | Easy | May 15, 2024 |
 | 167 | Two Sum II - Input Array Is Sorted | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/167.Two_Sum_II_-_Input_Array_Is_Sorted.cpp) | Medium | OCT 2, 2024 |
