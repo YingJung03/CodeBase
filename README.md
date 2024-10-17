@@ -20,6 +20,7 @@
 | 49 | Group Anagrams | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/49.Group_Anagrams.cpp) | Medium | SEP 23, 2024 |
 | 53 | Maximum Subarray | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/53.Maximum_Subarray.cpp) | Medium | Apr 28, 2024 |
 | 58 | Length of Last Word | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/58.Length_of_Last_Word.cpp) | Easy | May 2, 2024 |
+| 76 | Minimum_Window_Substring | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/76.Minimum_Window_Substring.cpp) | Hard | OCT 17, 2024 |
 | 83 | Remove Duplicates from Sorted List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/83.Remove_Duplicates_from_Sorted_List.cpp) | Easy | May 13, 2024 |
 | 88 | Merge Sorted Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/88.Merge_Sorted_Array.cpp) | Easy | OCT 12, 2024 |
 | 121 | Best Time to Buy and Sell Stock | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/121.Best_Time_to_Buy_and_Sell_Stock.cpp) | Easy | Apr 28, 2024 |
