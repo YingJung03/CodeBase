@@ -20,7 +20,7 @@
 | 49 | Group Anagrams | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/49.Group_Anagrams.cpp) | Medium | SEP 23, 2024 |
 | 53 | Maximum Subarray | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/53.Maximum_Subarray.cpp) | Medium | Apr 28, 2024 |
 | 58 | Length of Last Word | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/58.Length_of_Last_Word.cpp) | Easy | May 2, 2024 |
-| 76 | Minimum_Window_Substring | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/76.Minimum_Window_Substring.cpp) | Hard | OCT 17, 2024 |
+| 76 | Minimum Window Substring | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/76.Minimum_Window_Substring.cpp) | Hard | OCT 17, 2024 |
 | 83 | Remove Duplicates from Sorted List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/83.Remove_Duplicates_from_Sorted_List.cpp) | Easy | May 13, 2024 |
 | 88 | Merge Sorted Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/88.Merge_Sorted_Array.cpp) | Easy | OCT 12, 2024 |
 | 121 | Best Time to Buy and Sell Stock | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/121.Best_Time_to_Buy_and_Sell_Stock.cpp) | Easy | Apr 28, 2024 |
@@ -33,6 +33,7 @@
 | 167 | Two Sum II - Input Array Is Sorted | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/167.Two_Sum_II_-_Input_Array_Is_Sorted.cpp) | Medium | OCT 2, 2024 |
 | 169 | Majority Element | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/169.Majority_Element.cpp) | Easy | Apr 28, 2024 |
 | 203 | Remove Linked List Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/203.Remove_Linked_List_Elements.cpp) | Easy | May 15, 2024 |
+| 206 | Reverse Linked List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/206.Reverse_Linked_List.cpp) | Easy | OCT 18, 2024 |
 | 217 | Contains Duplicate | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/217.Contains_Duplicate.cpp) | Easy | SEP 20, 2024 |
 | 225 | Implement Stack using Queues | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/225.Implement_Stack_using_Queues.cpp) | Easy | JUN 29, 2024 |
 | 228 | Summary Ranges | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/228.Summary_Ranges.cpp) | Easy | Apr 28, 2024 |
