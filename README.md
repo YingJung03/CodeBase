@@ -1,6 +1,7 @@
 | # | Title | Solution | Difficulty | Date |
 | :--: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------: |
 | 1 | Two Sum | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1.Two_Sum.cpp) | Easy | Apr 02, 2024 |
+| 2 | Add Two Numbers | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/2.Add_Two_Numbers.cpp) | Medium | OCT 31, 2024 |
 | 3 | Longest Substring Without Repeating Characters | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/3.Longest_Substring_Without_Repeating_Characters.cpp) | Medium | OCT 6, 2024 |
 | 11 | Container With Most Water | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/11.Container_With_Most_Water.cpp) | Medium | OCT 3, 2024 |
 | 13 | Roman to Integer | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/13.Roman_to_Integer.cpp) | Easy | Apr 28, 2024 |
