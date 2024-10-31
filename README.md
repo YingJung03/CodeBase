@@ -47,6 +47,7 @@
 | 257 | Binary Tree Path | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/257.Binary_Tree_Path.cpp) | Easy | May 4, 2024 |
 | 268 | Missing Number | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/268.Missing_Number.cpp) | Easy | OCT 14, 2024 |
 | 271 | Encode and decode string | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/271.Encode_and_decode_string.cpp) | Medium | SEP 25, 2024 |
+| 287 | Find the Duplicate Number | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/287.Find_the_Duplicate_Number.cpp) | Medium | OCT 31, 2024 |
 | 347 | Top K Frequent Elements | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/347.Top_K_Frequent_Elements.cpp) | Medium | SEP 24, 2024 |
 | 424 | Longest Repeating Character Replacement | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/424.Longest_Repeating_Character_Replacement.cpp) | Medium | OCT 7, 2024 |
 | 448 | Find All Numbers Disappeared in an Array | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp) | Easy | Apr 28, 2024 |
