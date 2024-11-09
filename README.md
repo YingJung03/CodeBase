@@ -54,6 +54,7 @@
 | 566 | Reshape the Matrix | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/566.Reshape_the_Matrix.cpp) | Easy | JUL 18, 2024 |
 | 567 | permutation in String | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/567.Permutation_in_String.cpp) | Medium | OCT 8, 2024 |
 | 584 | Find Customer Referee | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/584.Find_Customer_Referee.sql) | Easy | NOV 9, 2024 |
+| 595 | Big Countries | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/595.Big_Countries.sql) | Easy | NOV 9, 2024 |
 | 657 | Robot Return to Origin | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/657.Robot_Return_to_Origin.cpp) | Easy | JUL 18, 2024 |
 | 766 | Toeplitz Matrix | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/766.Toeplitz_Matrix.cpp) | Easy | JUL 19, 2024 |
 | 876 | Middle of the Linked List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/876.Middle_of_the_Linked_List.cpp) | Easy | May 13, 2024 |
