@@ -31,6 +31,7 @@
 | 136 | Single Number | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/136.Single_Number.cpp) | Easy | May 13, 2024 |
 | 141 | Linked List Cycle | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/141.Linked_List_Cycle.cpp) | Easy | OCT 14, 2024 |
 | 143 | Reorder List | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/143.Reorder_List.cpp) | Medium | OCT 20, 2024 |
+| 146 | LRU Cache | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/146.LRU_Cache.cpp) | Medium | NOV 9, 2024 |
 | 155 | Min Stack | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/155.Min_Stack.cpp) | Medium | JUN 30, 2024 |
 | 160 | Intersection of Two Linked Lists | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/160.Intersection_of_Two_Linked_Lists.cpp) | Easy | May 15, 2024 |
 | 167 | Two Sum II - Input Array Is Sorted | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/167.Two_Sum_II_-_Input_Array_Is_Sorted.cpp) | Medium | OCT 2, 2024 |
