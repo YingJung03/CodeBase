@@ -63,6 +63,7 @@
 | 1148 | Article Views I | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/1148.Article_Views_I.sql) | Easy | NOV 9, 2024 |
 | 1332 | Remove Palindromic Subsequences | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1332.Remove_Palindromic_Subsequences.cpp) | Easy | Apr 30, 2024 |
 | 1378 | Replace Employee ID With The Unique Identifier | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/1378.Replace_Employee_ID_With_The_Unique_Identifier.sql) | Easy | NOV 9, 2024 |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/1581.Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) | Easy | NOV 9, 2024 |
 | 1672 | Richest Customer Wealth | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1672.Richest_Customer_Wealth.cpp) | Easy | JUL 31, 2024 |
 | 1683 | Invalid Tweets | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/1683.Invalid_Tweets.sql) | Easy | NOV 9, 2024 |
 | 1757 | Recyclable and Low Fat Products | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/1757.Recyclable_and_Low_Fat_Products.sql) | Easy | NOV 9, 2024 |
