@@ -62,5 +62,6 @@
 | 1148 | Article Views I | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/1148.Article_Views_I.sql) | Easy | NOV 9, 2024 |
 | 1332 | Remove Palindromic Subsequences | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1332.Remove_Palindromic_Subsequences.cpp) | Easy | Apr 30, 2024 |
 | 1672 | Richest Customer Wealth | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1672.Richest_Customer_Wealth.cpp) | Easy | JUL 31, 2024 |
+| 1683 | Invalid Tweets | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/1683.Invalid_Tweets.sql) | Easy | NOV 9, 2024 |
 | 1757 | Recyclable and Low Fat Products | [SQL]( https://github.com/YingJung03/CodeBase/blob/main/SQL/1757.Recyclable_and_Low_Fat_Products.sql) | Easy | NOV 9, 2024 |
 | 2965 | Find Missing and Repeated Values | [C++]( https://github.com/YingJung03/CodeBase/blob/main/Leetcode/2965.Find_Missing_and_Repeated_Values.cpp) | Easy | JUL 31, 2024 |
