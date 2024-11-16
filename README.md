@@ -27,6 +27,7 @@
 |  76  |                Minimum Window Substring                 |                [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/76.Minimum_Window_Substring.cpp)                 |    Hard    | OCT 17, 2024 |
 |  82  |          Remove Duplicates from Sorted List II          |          [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/82.Remove_Duplicates_from_Sorted_List_II.cpp)          |   Medium   | NOV 14, 2024 |
 |  83  |           Remove Duplicates from Sorted List            |           [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/83.Remove_Duplicates_from_Sorted_List.cpp)            |    Easy    | May 13, 2024 |
+|  86  |                     Partition_List                      |                     [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/86.Partition_List.cpp)                      |   Medium   | NOV 16, 2024 |
 |  88  |                   Merge Sorted Array                    |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/88.Merge_Sorted_Array.cpp)                    |    Easy    | OCT 12, 2024 |
 | 121  |             Best Time to Buy and Sell Stock             |            [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/121.Best_Time_to_Buy_and_Sell_Stock.cpp)             |    Easy    | Apr 28, 2024 |
 | 125  |                    Valid Palindrome                     |                    [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/125.Valid_Palindrome.cpp)                    |    Easy    | SEP 30, 2024 |
