@@ -78,3 +78,4 @@
 | 1683 |                     Invalid Tweets                      |                       [SQL](https://github.com/YingJung03/CodeBase/blob/main/SQL/1683.Invalid_Tweets.sql)                       |    Easy    | NOV 9, 2024  |
 | 1757 |             Recyclable and Low Fat Products             |              [SQL](https://github.com/YingJung03/CodeBase/blob/main/SQL/1757.Recyclable_and_Low_Fat_Products.sql)               |    Easy    | NOV 9, 2024  |
 | 2965 |            Find Missing and Repeated Values             |           [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/2965.Find_Missing_and_Repeated_Values.cpp)            |    Easy    | JUL 31, 2024 |
+| 3217 |     Delete Nodes From Linked List Present in Array      |    [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/3217.Delete_Nodes_From_Linked_List_Present_in_Array.cpp)     |   Medium   | NOV 16, 2024 |
