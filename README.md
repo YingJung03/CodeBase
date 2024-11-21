@@ -34,6 +34,7 @@
 | 128  |              Longest Consecutive Sequence               |              [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/128.Longest_Consecutive_Sequence.cpp)              |   Medium   | SEP 29, 2024 |
 | 136  |                      Single Number                      |                     [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/136.Single_Number.cpp)                      |    Easy    | May 13, 2024 |
 | 141  |                    Linked List Cycle                    |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/141.Linked_List_Cycle.cpp)                    |    Easy    | OCT 14, 2024 |
+| 142  |                  Linked List Cycle II                   |                  [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/142.Linked_List_Cycle_II.cpp)                  |   Medium   | NOV 21, 2024 |
 | 143  |                      Reorder List                       |                      [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/143.Reorder_List.cpp)                      |   Medium   | OCT 20, 2024 |
 | 146  |                        LRU Cache                        |                       [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/146.LRU_Cache.cpp)                        |   Medium   | NOV 9, 2024  |
 | 148  |                        Sort List                        |                       [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/148.Sort_List.cpp)                        |   Medium   | NOV 17, 2024 |
