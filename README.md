@@ -26,6 +26,7 @@
 |  53  |                    Maximum Subarray                     |                    [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/53.Maximum_Subarray.cpp)                     |   Medium   | Apr 28, 2024 |
 |  58  |                   Length of Last Word                   |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/58.Length_of_Last_Word.cpp)                   |    Easy    | May 2, 2024  |
 |  61  |                       Rotate List                       |                       [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/61.Rotate_List.cpp)                       |   Medium   | NOV 14, 2024 |
+|  74  |                   Search a 2D Matrix                    |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/74.Search_a_2D_Matrix.cpp)                    |   Medium   | NOV 23, 2024 |
 |  76  |                Minimum Window Substring                 |                [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/76.Minimum_Window_Substring.cpp)                 |    Hard    | OCT 17, 2024 |
 |  82  |          Remove Duplicates from Sorted List II          |          [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/82.Remove_Duplicates_from_Sorted_List_II.cpp)          |   Medium   | NOV 14, 2024 |
 |  83  |           Remove Duplicates from Sorted List            |           [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/83.Remove_Duplicates_from_Sorted_List.cpp)            |    Easy    | May 13, 2024 |
@@ -61,6 +62,7 @@
 | 287  |                Find the Duplicate Number                |               [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/287.Find_the_Duplicate_Number.cpp)                |   Medium   | OCT 31, 2024 |
 | 328  |                  Odd Even Linked List                   |                  [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/328.Odd_Even_Linked_List.cpp)                  |   Medium   | NOV 17, 2024 |
 | 347  |                 Top K Frequent Elements                 |                [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/347.Top_K_Frequent_Elements.cpp)                 |   Medium   | SEP 24, 2024 |
+| 367  |                  Valid Perfect Square                   |                    [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/367.Valid_Perfect_Square)                    |    Easy    | NOV 23, 2024 |
 | 424  |         Longest Repeating Character Replacement         |        [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/424.Longest_Repeating_Character_Replacement.cpp)         |   Medium   | OCT 7, 2024  |
 | 448  |        Find All Numbers Disappeared in an Array         |        [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp)        |    Easy    | Apr 28, 2024 |
 | 566  |                   Reshape the Matrix                    |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/566.Reshape_the_Matrix.cpp)                   |    Easy    | JUL 18, 2024 |
