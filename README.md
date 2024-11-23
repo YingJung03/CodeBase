@@ -12,6 +12,7 @@
 |  21  |                 Merge Two Sorted Lists                  |                 [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/21.Merge_Two_Sorted_Lists.cpp)                  |    Easy    | Mar 8, 2024  |
 |  23  |                  Merge k Sorted Lists                   |                  [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/23.Merge_k_Sorted_Lists.cpp)                   |    Hard    | NOV 23, 2024 |
 |  24  |                   Swap Nodes in Pairs                   |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/24.Swap_Nodes_in_Pairs.cpp)                   |   Medium   | NOV 14, 2024 |
+|  25  |                Reverse Nodes in k Group                 |                [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/25.Reverse_Nodes_in_k_Group.cpp)                 |    Hard    | NOV 23, 2024 |
 |  26  |           Remove Duplicates from Sorted Array           |           [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/26.Remove_Duplicates_from_Sorted_Array.cpp)           |    Easy    | OCT 10, 2024 |
 |  27  |                     Remove Element                      |                     [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/27.Remove_Element.cpp)                      |    Easy    | OCT 10, 2024 |
 |  28  |   Find the Index of the First Occurrence in a String    |   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/28.Find_the_Index_of_the_First_Occurrence_in_a_String.cpp)    |    Easy    | Apr 28, 2024 |
