@@ -10,6 +10,7 @@
 |  19  |            Remove Nth Node From End of List             |            [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/19.Remove_Nth_Node_From_End_of_List.cpp)             |   Medium   | OCT 31, 2024 |
 |  20  |                    Valid Parentheses                    |                    [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/20.Valid_Parentheses.cpp)                    |    Easy    | JUL 8, 2024  |
 |  21  |                 Merge Two Sorted Lists                  |                 [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/21.Merge_Two_Sorted_Lists.cpp)                  |    Easy    | Mar 8, 2024  |
+|  23  |                  Merge k Sorted Lists                   |                  [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/23.Merge_k_Sorted_Lists.cpp)                   |    Hard    | NOV 23, 2024 |
 |  24  |                   Swap Nodes in Pairs                   |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/24.Swap_Nodes_in_Pairs.cpp)                   |   Medium   | NOV 14, 2024 |
 |  26  |           Remove Duplicates from Sorted Array           |           [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/26.Remove_Duplicates_from_Sorted_Array.cpp)           |    Easy    | OCT 10, 2024 |
 |  27  |                     Remove Element                      |                     [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/27.Remove_Element.cpp)                      |    Easy    | OCT 10, 2024 |
