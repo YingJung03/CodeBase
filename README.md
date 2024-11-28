@@ -74,6 +74,7 @@
 | 657  |                 Robot Return to Origin                  |                 [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/657.Robot_Return_to_Origin.cpp)                 |    Easy    | JUL 18, 2024 |
 | 704  |                      Binary Search                      |                     [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/704.Binary_Search.cpp)                      |    Easy    | NOV 23, 2024 |
 | 766  |                     Toeplitz Matrix                     |                    [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/766.Toeplitz_Matrix.cpp)                     |    Easy    | JUL 19, 2024 |
+| 875  |                   Koko Eating Bananas                   |                  [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/875.Koko_Eating_Bananas.cpp)                   |   Medium   | NOV 28, 2024 |
 | 876  |                Middle of the Linked List                |               [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/876.Middle_of_the_Linked_List.cpp)                |    Easy    | May 13, 2024 |
 | 1047 |        Remove All Adjacent Duplicates In String         |       [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp)        |    Easy    | JUL 1, 2024  |
 | 1068 |                Product Sales Analysis I                 |                  [SQL](https://github.com/YingJung03/CodeBase/blob/main/SQL/1068.Product_Sales_Analysis_I.sql)                  |    Easy    | NOV 9, 2024  |
