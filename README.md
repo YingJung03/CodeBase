@@ -51,6 +51,7 @@
 | 197  |                   Rising Temperature                    |                     [SQL](https://github.com/YingJung03/CodeBase/blob/main/SQL/197.Rising_Temperature.sql)                      |    Easy    | NOV 9, 2024  |
 | 203  |               Remove Linked List Elements               |              [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/203.Remove_Linked_List_Elements.cpp)               |    Easy    | May 15, 2024 |
 | 206  |                   Reverse Linked List                   |                  [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/206.Reverse_Linked_List.cpp)                   |    Easy    | OCT 18, 2024 |
+| 209  |                Minimum Size Subarray Sum                |               [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/209.Minimum_Size_Subarray_Sum.cpp)                |   Medium   | NOV 29, 2024 |
 | 217  |                   Contains Duplicate                    |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/217.Contains_Duplicate.cpp)                   |    Easy    | SEP 20, 2024 |
 | 225  |              Implement Stack using Queues               |              [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/225.Implement_Stack_using_Queues.cpp)              |    Easy    | JUN 29, 2024 |
 | 228  |                     Summary Ranges                      |                     [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/228.Summary_Ranges.cpp)                     |    Easy    | Apr 28, 2024 |
