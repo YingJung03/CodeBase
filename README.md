@@ -28,6 +28,7 @@
 |  58  |                   Length of Last Word                   |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/58.Length_of_Last_Word.cpp)                   |    Easy    | May 2, 2024  |
 |  61  |                       Rotate List                       |                       [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/61.Rotate_List.cpp)                       |   Medium   | NOV 14, 2024 |
 |  74  |                   Search a 2D Matrix                    |                   [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/74.Search_a_2D_Matrix.cpp)                    |   Medium   | NOV 23, 2024 |
+|  75  |                       Sort_Colors                       |                       [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/75.Sort_Colors.cpp)                       |   Medium   | NOV 29, 2024 |
 |  76  |                Minimum Window Substring                 |                [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/76.Minimum_Window_Substring.cpp)                 |    Hard    | OCT 17, 2024 |
 |  82  |          Remove Duplicates from Sorted List II          |          [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/82.Remove_Duplicates_from_Sorted_List_II.cpp)          |   Medium   | NOV 14, 2024 |
 |  83  |           Remove Duplicates from Sorted List            |           [C++](https://github.com/YingJung03/CodeBase/blob/main/Leetcode/83.Remove_Duplicates_from_Sorted_List.cpp)            |    Easy    | May 13, 2024 |
